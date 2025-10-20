@@ -1,4 +1,4 @@
-## ⭐⭐⭐ Selection of repos that I happen to search frequently
+## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo)
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
@@ -24,7 +24,7 @@
  - [andrea-pendezzini-monorepo](https://github.com/puntonim/andrea-pendezzini-monorepo) and [andreapendezzini.it](https://github.com/puntonim/andreapendezzini.it)
  - [fisiomarcy](https://github.com/puntonim/fisiomarcy)
 
-## ⚠️ To eventually move to `experiments-monorepo`
+## ⚠️ To be moved to `experiments-monorepo`
  - [lambda-db-demos](https://github.com/puntonim/lambda-db-demos)
  - [websocket-demos](https://github.com/puntonim/websocket-demos)
  - [drag-drop-file-upload-demos](https://github.com/puntonim/drag-drop-file-upload-demos)
