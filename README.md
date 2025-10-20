@@ -4,7 +4,7 @@
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
- - 🟠 [aws-clients-monorepo](https://github.com/puntonim/aws-clients-monorepo)
+ - 🟠 [aws-clients-monorepo](https://github.com/puntonim/aws-clients-monorepo) soon to be moved to a new repo `clients-monorepo`
 
 
 ## ⭐⭐ Less frequently
