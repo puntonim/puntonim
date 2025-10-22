@@ -1,6 +1,7 @@
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo)
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
+ - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
