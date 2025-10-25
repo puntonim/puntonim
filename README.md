@@ -1,3 +1,7 @@
+## 📐 Might be used as templates
+ - CLI and SQLite (Peewee): [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
+ - Lambda: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
+
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo)
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
@@ -6,7 +10,6 @@
  - 🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
  - 🟠 [aws-clients-monorepo](https://github.com/puntonim/aws-clients-monorepo) soon to be moved to a new repo `clients-monorepo`
-
 
 ## ⭐⭐ Less frequently
  - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator)
