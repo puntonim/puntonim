@@ -28,7 +28,7 @@
  - [andrea-pendezzini-monorepo](https://github.com/puntonim/andrea-pendezzini-monorepo) and [andreapendezzini.it](https://github.com/puntonim/andreapendezzini.it)
  - [fisiomarcy](https://github.com/puntonim/fisiomarcy)
 
-## ⚠️ To be moved to `experiments-monorepo`
+## 🧪 Other random experiments
  - [lambda-db-demos](https://github.com/puntonim/lambda-db-demos)
  - [websocket-demos](https://github.com/puntonim/websocket-demos)
  - [drag-drop-file-upload-demos](https://github.com/puntonim/drag-drop-file-upload-demos)
