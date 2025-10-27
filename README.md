@@ -7,9 +7,9 @@
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
- - 🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
+ - 🧪🔌 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
- - 🟠 [aws-clients-monorepo](https://github.com/puntonim/aws-clients-monorepo) soon to be moved to a new repo `clients-monorepo`
+ - 🟠 [aws-clients-monorepo](https://github.com/puntonim/aws-clients-monorepo) soon to be moved ⚠️ to a new repo `clients-monorepo`
 
 ## ⭐⭐ Less frequently
  - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator)
@@ -33,7 +33,7 @@
  - [websocket-demos](https://github.com/puntonim/websocket-demos)
  - [drag-drop-file-upload-demos](https://github.com/puntonim/drag-drop-file-upload-demos)
  - [jwt-auth-demo](https://github.com/puntonim/jwt-auth-demo)
- - [mitmproxy-poc/](https://github.com/puntonim/mitmproxy-poc/)
+ - [mitmproxy-poc](https://github.com/puntonim/mitmproxy-poc/)
  - [md5-vs-blake2b](https://github.com/puntonim/md5-vs-blake2b)
 
 
