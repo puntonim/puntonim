@@ -6,12 +6,11 @@
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo)
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
+ - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
+   - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
- - 🟠 [aws-clients-monorepo](https://github.com/puntonim/aws-clients-monorepo) soon to be moved ⚠️ to a new repo `clients-monorepo`
- - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
-   - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
 
 ## ⭐⭐ Less frequently
  - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator)
