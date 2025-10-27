@@ -7,7 +7,7 @@
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
- - 🧪🔌 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
+ - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
  - 🟠 [aws-clients-monorepo](https://github.com/puntonim/aws-clients-monorepo) soon to be moved ⚠️ to a new repo `clients-monorepo`
  - 💈 clients-monorepo
