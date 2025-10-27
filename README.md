@@ -34,6 +34,7 @@
  - [drag-drop-file-upload-demos](https://github.com/puntonim/drag-drop-file-upload-demos)
  - [jwt-auth-demo](https://github.com/puntonim/jwt-auth-demo)
  - [mitmproxy-poc/](https://github.com/puntonim/mitmproxy-poc/)
+ - [md5-vs-blake2b](https://github.com/puntonim/md5-vs-blake2b)
 
 
 <!--
