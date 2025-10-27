@@ -18,7 +18,7 @@
 ## ⭐ Much less frequently
  - 🔈 [Randomize songs order](https://gist.github.com/puntonim/c07d01a4c7196abaf627915d9a32b8e8)
  - [git-loc](https://github.com/puntonim/git-loc)
- - [algos-and-data-structures](https://github.com/puntonim/algos-and-data-structures)
+ - ⚙️ [algos-and-data-structures](https://github.com/puntonim/algos-and-data-structures)
  - [nasutils](https://github.com/puntonim/nasutils)
  - [Python decorators 1](https://gist.github.com/puntonim/6208d03cbe22a105358322d32d382aae) and [2](https://gist.github.com/puntonim/525abaaf0bdfe683a8698b16f72259bf)
  - [Python SSH tunnel](https://gist.github.com/puntonim/47397cea6fdba03a99b5)
