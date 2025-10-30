@@ -8,6 +8,7 @@
    - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
    - 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils)
    - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (response, `@redact_http_headers`, ); test factories for Lambda, API Gateway, etc.
+   - many more ...
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
  - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
