@@ -4,10 +4,14 @@
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo)
+   - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
+   - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
+   - 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils)
+   - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (response, `@redact_http_headers`, ); test factories for Lambda, API Gateway, etc.
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
  - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
-   - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
+   - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client): AWS Parameter Store client
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
