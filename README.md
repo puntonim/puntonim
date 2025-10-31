@@ -7,6 +7,7 @@
    - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
    - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
    - 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils)
+   - 🔢 [json-utils](https://github.com/puntonim/utils-monorepo/tree/main/json-utils): `to_json()` for a more permissive conversion to Json.
    - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (responses, `@redact_http_headers()`); test factories for Lambda, API Gateway, etc.
    - many more ...
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
