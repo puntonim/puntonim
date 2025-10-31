@@ -7,12 +7,13 @@
    - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
    - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
    - 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils)
-   - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (response, `@redact_http_headers`, ); test factories for Lambda, API Gateway, etc.
+   - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (responses, `@redact_http_headers()`); test factories for Lambda, API Gateway, etc.
    - many more ...
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
  - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client): AWS Parameter Store client
+   - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_lambda_url()`, `invoke_lambda()`)
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
