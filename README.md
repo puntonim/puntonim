@@ -13,7 +13,7 @@
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
  - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client): AWS Parameter Store client
-   - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_lambda_url()`, `invoke_lambda()`)
+   - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
