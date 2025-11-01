@@ -4,13 +4,16 @@
  - *Lambda* and *SQLite* (with Peewee) on EFS (within a VPC): TODO
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
+Projects
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
    - [sport-analysis](https://github.com/puntonim/sport-monorepo/tree/main/projects/sport-analysis): CLI to create matplotlib charts to analyze performance (that I upload to Strava).
    - [strava-facade-api](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-facade-api): API used by my Gym Google Sheet to upload workouts to Strava.
    - [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db): CLI to export Strava activities to a SQLite DB.
    - [strava-importer-from-tomtom-sports](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-importer-from-tomtom-sports): used once to import into Strava the activities manually exported from TomTom Sports website.
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
----
+
+
+Utils
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of utils that I use everywhere.
    - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
    - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
@@ -24,7 +27,8 @@
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
  - 🐶 aws-watchdog: TODO
----
+
+Experiments
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  
