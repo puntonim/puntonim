@@ -3,7 +3,7 @@
  - Lambda: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
- - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo)
+ - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of utils that I use everywhere.
    - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
    - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
    - 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils)
@@ -25,11 +25,11 @@
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
 
 ## ⭐⭐ Less frequently
- - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator)
- - 📅 [google-calendar-rich](https://github.com/puntonim/google-calendar-rich)
+ - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator): to automate the booking of classes at my gym 😏.
+ - 📅 [google-calendar-rich](https://github.com/puntonim/google-calendar-rich): a Google Apps Script to automatically style my Google Calendar events.
 
 ## ⭐ Much less frequently
- - 🔈 [Randomize songs order](https://gist.github.com/puntonim/c07d01a4c7196abaf627915d9a32b8e8)
+ - 🔈 [Randomize songs order](https://gist.github.com/puntonim/c07d01a4c7196abaf627915d9a32b8e8): to randomize songs order in my portable MP3 reader.
  - [git-loc](https://github.com/puntonim/git-loc)
  - ⚙️ [algos-and-data-structures](https://github.com/puntonim/algos-and-data-structures)
  - [nasutils](https://github.com/puntonim/nasutils)
