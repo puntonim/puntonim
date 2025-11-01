@@ -4,6 +4,13 @@
  - *Lambda* and *SQLite* (with Peewee) on EFS (within a VPC): TODO
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
+ - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
+   - [sport-analysis](https://github.com/puntonim/sport-monorepo/tree/main/projects/sport-analysis): CLI to create matplotlib charts to analyze performance (that I upload to Strava).
+   - [strava-facade-api](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-facade-api): API used by my Gym Google Sheet to upload workouts to Strava.
+   - [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db): CLI to export Strava activities to a SQLite DB.
+   - [strava-importer-from-tomtom-sports](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-importer-from-tomtom-sports): used once to import into Strava the activities manually exported from TomTom Sports website.
+ - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
+
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of utils that I use everywhere.
    - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
    - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
@@ -11,20 +18,16 @@
    - 🔢 [json-utils](https://github.com/puntonim/utils-monorepo/tree/main/json-utils): `to_json()` for a smart conversion to Json.
    - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (responses, `@redact_http_headers()`); test factories for Lambda, API Gateway, etc.
    - many more ...
- - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
-   - [sport-analysis](https://github.com/puntonim/sport-monorepo/tree/main/projects/sport-analysis): CLI to create matplotlib charts to analyze performance (that I upload to Strava).
-   - [strava-facade-api](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-facade-api): API used by my Gym Google Sheet to upload workouts to Strava.
-   - [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db): CLI to export Strava activities to a SQLite DB.
-   - [strava-importer-from-tomtom-sports](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-importer-from-tomtom-sports): used once to import into Strava the activities manually exported from TomTom Sports website.
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo): an over-engineered bot, used by other projects to send Telegram messages (reminders, alarms, notifications, etc.) to myself.
  - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo): a collection of clients that I use across several projects.
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
+ - 🐶 aws-watchdog: TODO
+ 
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
- - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
-
+ 
 ## ⭐⭐ Less frequently
  - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator): to automate the booking of classes at my gym 😏.
  - 📅 [google-calendar-rich](https://github.com/puntonim/google-calendar-rich): a Google Apps Script to automatically style my Google Calendar events.
