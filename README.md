@@ -11,7 +11,11 @@
    - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (responses, `@redact_http_headers()`); test factories for Lambda, API Gateway, etc.
    - many more ...
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
- - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo)
+   - [sport-analysis](https://github.com/puntonim/sport-monorepo/tree/main/projects/sport-analysis): CLI to create matplotlib charts to analyze performance (that I upload to Strava).
+   - [strava-facade-api](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-facade-api): API used by my Gym Google Sheet to upload workouts to Strava.
+   - [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db): CLI to export Strava activities to a SQLite DB.
+   - [strava-importer-from-tomtom-sports](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-importer-from-tomtom-sports): basic script that I used to import into Strava the activities manually exported from TomTom Sports website.
+ - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo): an over-engineered bot to send Telegram messages to myself.
  - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
