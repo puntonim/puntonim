@@ -10,7 +10,6 @@
    - [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db): CLI to export Strava activities to a SQLite DB.
    - [strava-importer-from-tomtom-sports](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-importer-from-tomtom-sports): used once to import into Strava the activities manually exported from TomTom Sports website.
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
-
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of utils that I use everywhere.
    - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
    - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
@@ -24,7 +23,6 @@
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
  - 🐶 aws-watchdog: TODO
- 
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  
