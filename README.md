@@ -16,7 +16,7 @@
    - [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db): CLI to export Strava activities to a SQLite DB.
    - [strava-importer-from-tomtom-sports](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-importer-from-tomtom-sports): basic script that I used to import into Strava the activities manually exported from TomTom Sports website.
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo): an over-engineered bot to send Telegram messages to myself.
- - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo)
+ - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo): a collection of clients that I use across several projects.
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
