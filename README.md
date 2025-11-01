@@ -1,6 +1,7 @@
 ## 📐 Projects that can be used as templates
- - CLI and SQLite (Peewee): [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
- - Lambda: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
+ - *CLI* and *SQLite* (with Peewee): [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
+ - *Lambda*: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
+ - *Lambda* and *SQLite* (with Peewee) on EFS (within a VPC): TODO
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
  - 🛠️ [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of utils that I use everywhere.
