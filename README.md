@@ -35,7 +35,7 @@
  - ⚡🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  
 ## ⭐⭐ Less frequently
- - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator): to automate the booking of classes at my gym 😏 `👨‍💻 Lambda, CloudWatch Scheduled Events (cron).`
+ - 🏋️ [reborn-automator](https://github.com/puntonim/reborn-automator): to automate the booking of classes at my gym 😏 `👨‍💻 Lambda, CloudWatch Scheduled Events (cron).`
  - 📅 [google-calendar-rich](https://github.com/puntonim/google-calendar-rich): a Google Apps Script to automatically style my Google Calendar events `👨‍💻 Google Apps Script, Google Calendar API.`
 
 ## ⭐ Much less frequently
