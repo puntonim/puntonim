@@ -26,7 +26,7 @@
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
- - 🐶 aws-watchdog: DOING `👨‍💻 Lambda, SNS, CloudWatch logs.
+ - 🐶 aws-watchdog: DOING `👨‍💻 Lambda, SNS, CloudWatch logs.`
 
 *Experiments*
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
@@ -49,7 +49,7 @@
  - [andrea-pendezzini-monorepo](https://github.com/puntonim/andrea-pendezzini-monorepo) and [andreapendezzini.it](https://github.com/puntonim/andreapendezzini.it): available at [https://andreapendezzini.it](https://andreapendezzini.it)
  - [fisiomarcy](https://github.com/puntonim/fisiomarcy): available at [https://puntonim.github.io/fisiomarcy](https://puntonim.github.io/fisiomarcy)
 
-## 🧪 Other random experiments
+## 🌱 Other random experiments
  - [lambda-db-demos](https://github.com/puntonim/lambda-db-demos)
  - [websocket-demos](https://github.com/puntonim/websocket-demos)
  - [drag-drop-file-upload-demos](https://github.com/puntonim/drag-drop-file-upload-demos)
