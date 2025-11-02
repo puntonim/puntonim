@@ -30,7 +30,7 @@
 
 🧪 *Experiments*
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
- - 🧪⚡ [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
+ - ⚡🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  
 ## ⭐⭐ Less frequently
  - 💪 [reborn-automator](https://github.com/puntonim/reborn-automator): to automate the booking of classes at my gym 😏 `👨‍💻 Lambda, CloudWatch Scheduled Events (cron).`
