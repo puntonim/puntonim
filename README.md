@@ -15,12 +15,9 @@
 
 🛠️ *Utils*
  - [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of 🐍 Python utils that I use everywhere.
-   - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils)
-   - ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils)
-   - 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils)
+   - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils), ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils), 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils) and many more.
    - 🔢 [json-utils](https://github.com/puntonim/utils-monorepo/tree/main/json-utils): `to_json()` for a smart conversion to Json.
    - 🟠 [aws-utils](https://github.com/puntonim/utils-monorepo/tree/main/aws-utils): Lambda utils (responses, `@redact_http_headers()`); test factories for Lambda, API Gateway, DynamoDB, etc.
-   - many more ...
  - 🛢️ [botte-monorepo](https://github.com/puntonim/botte-monorepo): an over-engineered bot, used by other projects to send Telegram messages (reminders, alarms, notifications, etc.) to myself `👨‍💻 Lambda, DynamoDB, Telegram.`
  - 💈 [clients-monorepo](https://github.com/puntonim/clients-monorepo): a collection of clients that I use across several projects.
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
