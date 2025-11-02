@@ -45,9 +45,9 @@
  - [Python SSH tunnel](https://gist.github.com/puntonim/47397cea6fdba03a99b5)
 
 ## 🌐 Websites
- - [villa-savi-monorepo](https://github.com/puntonim/villa-savi-monorepo) and [villasavi.it](https://github.com/puntonim/villasavi.it)
- - [andrea-pendezzini-monorepo](https://github.com/puntonim/andrea-pendezzini-monorepo) and [andreapendezzini.it](https://github.com/puntonim/andreapendezzini.it)
- - [fisiomarcy](https://github.com/puntonim/fisiomarcy)
+ - [villa-savi-monorepo](https://github.com/puntonim/villa-savi-monorepo) and [villasavi.it](https://github.com/puntonim/villasavi.it): available at (https://villasavi.it)[https://villasavi.it]
+ - [andrea-pendezzini-monorepo](https://github.com/puntonim/andrea-pendezzini-monorepo) and [andreapendezzini.it](https://github.com/puntonim/andreapendezzini.it): available at (https://andreapendezzini.it)[https://andreapendezzini.it]
+ - [fisiomarcy](https://github.com/puntonim/fisiomarcy): available at (https://puntonim.github.io/fisiomarcy/)[https://puntonim.github.io/fisiomarcy/]
 
 ## 🧪 Other random experiments
  - [lambda-db-demos](https://github.com/puntonim/lambda-db-demos)
