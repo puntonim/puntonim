@@ -5,7 +5,7 @@
  - `FastAPI`: [iot-be](https://github.com/puntonim/iot-monorepo/tree/main/projects/iot-be)
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
-💡 *Projects*
+### 💡 Projects
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
    - [sport-analysis](https://github.com/puntonim/sport-monorepo/tree/main/projects/sport-analysis): CLI to create charts to analyze performance (that I upload to Strava) `👨‍💻 click, matplotlib, Garmin API, Strava API.`
    - [strava-facade-api](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-facade-api): API used by my Gym Google Sheet to upload workouts to Strava `👨‍💻 Lambda, Strava API.`
@@ -18,7 +18,7 @@
    - 🌡️ [tempeh-incubator](https://github.com/puntonim/iot-monorepo/tree/main/projects/tempeh-incubator): to control my tempeh incubator `👨‍💻 Arduino, relay, display, rotary enc., C++.`
  - 💰 [patatrack-monorepo](https://github.com/puntonim/patatrack-monorepo): 🔒 private and now archived, but it contains great patterns `👨‍💻 Lambda, CLI, SNS, SQS, DynamoDB, Peewee, SQLite, CloudWatch logs and CloudWatch Scheduled Events (cron).`
 
-🛠️ *Utils*
+### 🛠️ Utils
  - 🟢 [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of 🐍 Python utils that I use everywhere.
    - 🪵 [log-utils](https://github.com/puntonim/utils-monorepo/tree/main/log-utils), ⚙️ [settings-utils](https://github.com/puntonim/utils-monorepo/tree/main/settings-utils), 📅 [datetime-utils](https://github.com/puntonim/utils-monorepo/tree/main/datetime-utils) and many more.
    - 🔢 [json-utils](https://github.com/puntonim/utils-monorepo/tree/main/json-utils): `to_json()` for a smart conversion to Json.
@@ -30,7 +30,7 @@
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
  - 🐶 aws-watchdog: DOING `👨‍💻 Lambda, SNS, CloudWatch logs.`
 
-🧪 *Experiments*
+### 🧪 Experiments
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
  - ⚡🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  
