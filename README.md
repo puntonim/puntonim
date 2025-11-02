@@ -1,7 +1,8 @@
 ## 📐 Sw that can serve as a template
- - *CLI* and *SQLite* (with Peewee): [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
- - *Lambda*: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
- - *Lambda* and *SQLite* (with Peewee) on EFS (within a VPC): TODO
+ - `CLI`, `SQLite`, `Peewee`, `full-text search`: [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
+ - `Lambda`: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
+ - `Lambda`, `SQLite`, `Peewee`, on `EFS` (within a `VPC`): TODO
+ - `FastAPI`: [iot-be](https://github.com/puntonim/iot-monorepo/tree/main/projects/iot-be)
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
 💡 *Projects*
@@ -11,6 +12,10 @@
    - [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db): CLI to export Strava activities to a SQLite DB `👨‍💻 argparse, Peewee, SQLite.`
    - [strava-importer-from-tomtom-sports](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-importer-from-tomtom-sports): used once to import into Strava the activities manually exported from TomTom Sports website.
  - 🔌 [iot-monorepo](https://github.com/puntonim/iot-monorepo)
+   - ⚪ [iot-be](https://github.com/puntonim/iot-monorepo/tree/main/projects/iot-be): IoT backend on a RaspberryPi `👨‍💻 FastAPI, Python.`
+   - ❄️ [smart-ac](https://github.com/puntonim/iot-monorepo/tree/main/projects/smart-ac): to control AC via IR `👨‍💻 Arduino, IR, C++.`
+   - 🔥 [smart-thermostat](https://github.com/puntonim/iot-monorepo/tree/main/projects/smart-thermostat): to control heating via a relay `👨‍💻 Arduino, relay, display, rotary enc., C++.`
+   - 🌡️ [tempeh-incubator](https://github.com/puntonim/iot-monorepo/tree/main/projects/tempeh-incubator): to control my tempeh incubator `👨‍💻 Arduino, relay, display, rotary enc., C++.`
  - 💰 [patatrack-monorepo](https://github.com/puntonim/patatrack-monorepo): 🔒 private and now archived, but it contains great patterns `👨‍💻 Lambda, CLI, SNS, SQS, DynamoDB, Peewee, SQLite, CloudWatch logs and CloudWatch Scheduled Events (cron).`
 
 🛠️ *Utils*
