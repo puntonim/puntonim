@@ -4,7 +4,8 @@
  - `Lambda`: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
  - `Lambda`, `SQLite`, `Peewee`, on `EFS` (within a `VPC`): TODO
  - `Lambda` that publishes to `SNS`: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
- - `Lambda` with CloudWatch Log trigger: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
+ - `Lambda` with `CloudWatch` Log trigger: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
+ - `Lambda` with `CloudWatch` Scheduled Event (cron) trigger: [reborn-automator](https://github.com/puntonim/reborn-automator)
  - `Lambda` with `DynamoDB` task queue trigger: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
