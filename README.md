@@ -2,7 +2,7 @@
  - `CLI`, `SQLite`, `Peewee`, `full-text search`: [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
  - `FastAPI` on premise: [iot-be](https://github.com/puntonim/iot-monorepo/tree/main/projects/iot-be)
  - `Lambda`: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
- - `Lambda`, `SQLite`, `Peewee`, on `EFS` (within a `VPC`): TODO
+ - `Lambda`, `SQLite`, `Peewee` (requires `EFS` and `VPC`): TODO
  - `Lambda` that publishes to `SNS`: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
  - `Lambda` with `CloudWatch` Log trigger: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
  - `Lambda` with `CloudWatch` Scheduled Event (cron) trigger: [reborn-automator](https://github.com/puntonim/reborn-automator)
