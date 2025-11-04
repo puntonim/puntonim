@@ -3,6 +3,7 @@
  - `Lambda`: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
  - `Lambda`, `SQLite`, `Peewee`, on `EFS` (within a `VPC`): TODO
  - `FastAPI`: [iot-be](https://github.com/puntonim/iot-monorepo/tree/main/projects/iot-be)
+ - `Lambda` that publishes to `SNS`: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
 ### 💡 Projects
@@ -28,7 +29,7 @@
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
- - 🐶 aws-watchdog: DOING `👨‍💻 Lambda, SNS, CloudWatch logs.`
+ - 🐶 aws-watchdog: DOING [aws-watchdog](https://github.com/puntonim/aws-watchdog) `👨‍💻 Lambda, SNS, CloudWatch logs.`
 
 ### 🧪 Experiments
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
