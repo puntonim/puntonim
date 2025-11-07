@@ -5,7 +5,7 @@
  - `Lambda`, `SQLite`, `Peewee` (requires `EFS` and `VPC`): TODO
  - `Lambda` that publishes to `SNS`: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
  - `Lambda` with `CloudWatch` Log trigger: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
- - `Lambda` with `CloudWatch` Scheduled Event (cron) trigger: [reborn-automator](https://github.com/puntonim/reborn-automator)
+ - `Lambda` with `Eventridge Scheduler` (cron) trigger: [reborn-automator](https://github.com/puntonim/reborn-automator)
  - `Lambda` with `DynamoDB` task queue trigger: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
  - `Lambda` with threading: alarm-be in patatrck-monorepo (🔒 private)
 
