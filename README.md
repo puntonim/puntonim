@@ -37,7 +37,7 @@
 
 ### 🧪 Experiments
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
-  - 🟠 [dynamodb-queue-to-lambda-vs-sqs-exp](https://github.com/puntonim/experiments-monorepo/tree/main/dynamodb-queue-to-lambda-vs-sqs-exp) a study of `Dynamodb > trigger > Lambda` architecture (and comparison with SQS) `👨‍💻 Lambda, DynamoDB.`
+   - 🟠 [dynamodb-queue-to-lambda-vs-sqs-exp](https://github.com/puntonim/experiments-monorepo/tree/main/dynamodb-queue-to-lambda-vs-sqs-exp) a study of `Dynamodb > trigger > Lambda` architecture (and comparison with SQS) `👨‍💻 Lambda, DynamoDB.`
  - ⚡🧪 [arduino-experiments-monorepo](https://github.com/puntonim/arduino-experiments-monorepo)
  
 ## ⭐⭐ Less frequently
