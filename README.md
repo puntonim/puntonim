@@ -7,7 +7,9 @@
  - `Lambda` with `CloudWatch` Log trigger: [aws-watchdog](https://github.com/puntonim/aws-watchdog)
  - `Lambda` with `Eventridge Scheduler` (cron) trigger: [reborn-automator](https://github.com/puntonim/reborn-automator)
  - `Lambda` with `DynamoDB` task queue trigger: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
- - `Lambda` with threading: alarm-be in patatrck-monorepo (🔒 private)
+ - `Lambda` with `SQS` task queue trigger: old [botte](https://github.com/puntonim/patatrack-monorepo/tree/main/projects/botte) (🔒 private and archived)
+ - `Lambda` with `SNS` topic trigger: [contabel](https://github.com/puntonim/patatrack-monorepo/blob/main/projects/contabel/contabel/views/morning_report/sns_morning_report_view.py) (🔒 private and archived)
+ - `Lambda` with threading: alarm-be in patatrck-monorepo (🔒 private) TODO not pushed yet
 
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
 ### 💡 Projects
