@@ -1,5 +1,6 @@
 ## 📐 Sw that can serve as a template
- - `CLI`, `SQLite`, `Peewee`, `full-text search`: [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
+ - `CLI`, `click`, `SQLite`, `Peewee`, `full-text search`: [sqlite-full-text-search-cli-exp](https://github.com/puntonim/experiments-monorepo/tree/main/SQLITE%20FULL-TEXT%20SEARCH/sqlite-full-text-search-cli-exp)
+ - `CLI`, `argpase`: [strava-exporter-to-db](https://github.com/puntonim/sport-monorepo/tree/main/projects/strava-exporter-to-db)
  - `FastAPI` on premise: [iot-be](https://github.com/puntonim/iot-monorepo/tree/main/projects/iot-be)
  - `Lambda`: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
  - `Lambda`, `SQLite`, `Peewee` (requires `EFS` and `VPC`): TODO
