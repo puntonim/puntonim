@@ -11,7 +11,8 @@
  - `Lambda` with `SQS` task queue trigger: old [botte](https://github.com/puntonim/patatrack-monorepo/tree/main/projects/botte) (🔒 private and archived)
  - `Lambda` with `SNS` topic trigger: [contabel](https://github.com/puntonim/patatrack-monorepo/blob/main/projects/contabel/contabel/views/morning_report/sns_morning_report_view.py) (🔒 private and archived)
  - `Lambda` with threading: alarm-be in patatrck-monorepo (🔒 private) TODO not pushed yet
-
+ - `Telegram`, `Telegram webhook`, `Telegram user commands`: [botte-be](https://github.com/puntonim/botte-monorepo/tree/main/projects/botte-be)
+   
 ## ⭐⭐⭐🔎 Selection of repos that I happen to search frequently
 ### 💡 Projects
  - 💪 [sport-monorepo](https://github.com/puntonim/sport-monorepo)
