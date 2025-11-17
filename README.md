@@ -37,7 +37,7 @@
    - 🟠 [aws-parameter-store-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-parameter-store-client)
    - 🟠 [aws-lambda-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-lambda-client): AWS Lambda client (`get_url()`, `invoke()`)
    - 🟠 [aws-dynamodb-client](https://github.com/puntonim/clients-monorepo/tree/main/aws-dynamodb-client)
- - 🐶 aws-watchdog: DOING [aws-watchdog](https://github.com/puntonim/aws-watchdog) `👨‍💻 Lambda, SNS, CloudWatch logs.`
+ - 🐶 aws-watchdog: [aws-watchdog](https://github.com/puntonim/aws-watchdog) `👨‍💻 Lambda, SNS, SNS email subscription, SQS, SQS-Pipe-SNS, CloudWatch logs.`
 
 ### 🧪 Experiments
  - 🧪 [experiments-monorepo](https://github.com/puntonim/experiments-monorepo)
