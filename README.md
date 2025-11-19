@@ -25,7 +25,7 @@
    - ❄️ [smart-ac](https://github.com/puntonim/iot-monorepo/tree/main/projects/smart-ac): to control AC via IR `👨‍💻 Arduino, IR, C++.`
    - 🔥 [smart-thermostat](https://github.com/puntonim/iot-monorepo/tree/main/projects/smart-thermostat): to control heating via a relay `👨‍💻 Arduino, relay, display, rotary enc., C++.`
    - 🌡️ [tempeh-incubator](https://github.com/puntonim/iot-monorepo/tree/main/projects/tempeh-incubator): to control my tempeh incubator `👨‍💻 Arduino, relay, display, rotary enc., C++.`
- - 💰 [patatrack-monorepo](https://github.com/puntonim/patatrack-monorepo): 🔒 private and now archived, but it contains great patterns `👨‍💻 Lambda, CLI, SNS, SQS, DynamoDB, Peewee, SQLite, CloudWatch logs and CloudWatch Scheduled Events (cron).`
+ - 💰 [palanca-monorepo](https://github.com/puntonim/palanca-monorepo): to deal with financial securities
 
 ### 🛠️ Utils
  - 🟢 [utils-monorepo](https://github.com/puntonim/utils-monorepo): a collection of 🐍 Python utils that I use everywhere.
@@ -47,8 +47,9 @@
 ## ⭐⭐ Less frequently
  - 🏋️ [reborn-automator](https://github.com/puntonim/reborn-automator): to automate the booking of classes at my gym 😏 `👨‍💻 Lambda, CloudWatch Scheduled Events (cron).`
  - 📅 [google-calendar-rich](https://github.com/puntonim/google-calendar-rich): a Google Apps Script to automatically style my Google Calendar events `👨‍💻 Google Apps Script, Google Calendar API.`
+ - 💰 [patatrack-monorepo](https://github.com/puntonim/patatrack-monorepo): 🔒 private and now archived, but it contains interesting patterns `👨‍💻 Lambda, CLI, SNS, SQS, DynamoDB, Peewee, SQLite, CloudWatch logs and CloudWatch Scheduled Events (cron).`
 
-## ⭐ Much less frequently
+## ⭐ Even less frequently
  - 🔈 [Randomize songs order](https://gist.github.com/puntonim/c07d01a4c7196abaf627915d9a32b8e8): to randomize songs order in my portable MP3 reader.
  - [git-loc](https://github.com/puntonim/git-loc)
  - ⚙️ [algos-and-data-structures](https://github.com/puntonim/algos-and-data-structures)
